@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <img src= "https://gpvc.arturio.dev/eraltafs" alt="hello">
+  <a href="https://ibb.co/k5XgQk4"><img src="https://i.ibb.co/gmJMzHS/Github-banner.png" alt="Github-banner" border="0" /></a>
   <br/>
 - 🌱 I’m currently learning Node Express and MongoDB
 <br/>

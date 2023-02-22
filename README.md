@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I am Full Stack Developer;I am Learning+Node+Express+MongoDB" width="max-content"> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I am Full Stack Web Developer;I am Learning+Node+Express+MongoDB" width="max-content"> 
 </div>  
 <div align="center">
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 80%" />
@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://ibb.co/k5XgQk4"><img src="https://i.ibb.co/gmJMzHS/Github-banner.png" alt="Github-banner" border="0" /></a>
   <br/>
-- 🌱 I’m currently learning Node Express and MongoDB
+- 🌱 I’m currently learning MERN Stack
 <br/>
 - ❓ Ask me about anything related to ReactJS, Redux and related technologies
 </div>  

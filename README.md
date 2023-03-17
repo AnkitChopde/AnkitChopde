@@ -5,21 +5,24 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I am Full Stack Web Developer;I am Learning+Node+Express+MongoDB" width="max-content"> 
 </div>  
-<div align="center">
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 80%" />
-</div>  
-
-<br/>
-<br/>
-<br/>
 
 <div align="center">
   <a href="https://ibb.co/k5XgQk4"><img src="https://i.ibb.co/gmJMzHS/Github-banner.png" alt="Github-banner" border="0" /></a>
-  <br/>
-- 🌱 I’m currently learning MERN Stack
+</div>
 <br/>
-- ❓ Ask me about anything related to ReactJS, Redux and related technologies
-</div>  
+<br/>
+<br/>
+<div align="center" display="flex">
+  # 💫 About Me:
+  I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🌱 I’m currently learning **Full Stack Web Development**
+- 👯 I will be happy to collaborate on **Web Development Projects**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/SubodhSingh8543?tab=repositories)**
+- 🌐 Portfolio [https://subodhsingh8543.github.io/](https://subodhsingh8543.github.io/)
+- 📫 How to reach me **subodhsingh8543@gmail.com**
+
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 80%" />
+</div>    
 <br/>
 
 

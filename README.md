@@ -17,9 +17,9 @@
   I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 👯 I will be happy to collaborate on **Web Development Projects**
-- 👨‍💻 All of my projects are available at **[here](https://github.com/SubodhSingh8543?tab=repositories)**
-- 🌐 Portfolio [https://subodhsingh8543.github.io/](https://subodhsingh8543.github.io/)
-- 📫 How to reach me **subodhsingh8543@gmail.com**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/AnkitChopde?tab=repositories)**
+- 🌐 Portfolio [https://ankitchopde.github.io/](https://ankitchopde.github.io/)
+- 📫 How to reach me **acchopde84@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 80%" />
 </div>    

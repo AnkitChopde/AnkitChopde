@@ -17,7 +17,7 @@
   I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 👯 I will be happy to collaborate on **Web Development Projects**
-- 👨‍💻 All of my projects are available at **[here](https://github.com/AnkitChopde?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/AnkitChopde?tab=repositories)
 - 🌐 Portfolio [https://ankitchopde.github.io/]
 - 📫 How to reach me **acchopde84@gmail.com**
 

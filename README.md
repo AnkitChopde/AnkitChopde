@@ -6,9 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I am Full Stack Web Developer;I am Learning+Node+Express+MongoDB" width="max-content"> 
 </div>  
 
-<div align="center">
-  <a href="https://ibb.co/k5XgQk4"><img src="https://i.ibb.co/gmJMzHS/Github-banner.png" alt="Github-banner" border="0" /></a>
-</div>
 <br/>
 <br/>
 
@@ -18,24 +15,21 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Project**
 
-- 📫 Reach me on **someshrawat106@gmail.com**
+- 📫 How to reach me **acchopde84@gmail.com**
 
 - 💬 ask me about anything, i am happy to help
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio](https://somesh9870.github.io/)
+- 👨‍💻 All of my projects are available at **[here](https://github.com/AnkitChopde?tab=repositories)
+
+- 💬 Have a look at my [Portfolio]([https://ankitchopde.github.io/])
 
 <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh9870" alt="somesh9870" /></a> </p> -->
 <div align="center" display="flex">
   # 💫 About Me:
   I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 I’m currently learning **Full Stack Web Development**
-- 👯 I will be happy to collaborate on **Web Development Projects**
-- 👨‍💻 All of my projects are available at **[here](https://github.com/AnkitChopde?tab=repositories)
-- 🌐 Portfolio [https://ankitchopde.github.io/]
-- 📫 How to reach me **acchopde84@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 80%" />
 </div>    

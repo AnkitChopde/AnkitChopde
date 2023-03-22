@@ -24,12 +24,8 @@
 - 👨‍💻 All of my projects are available at **[here](https://github.com/AnkitChopde?tab=repositories)
 
 - 💬 Have a look at my Portfolio [https://ankitchopde.github.io/]
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 80%" />
 <br/>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh9870" alt="somesh9870" /></a> </p> -->
-<div align="center" display="flex">
-
-</div>    
+    
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

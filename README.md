@@ -11,7 +11,23 @@
 </div>
 <br/>
 <br/>
+
+- 🔭 I’m currently pursuing **Full Stack Web Development**
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 👯 I’m looking to collaborate on **MERN Stack Project**
+
+- 📫 Reach me on **someshrawat106@gmail.com**
+
+- 💬 ask me about anything, i am happy to help
+
+- ⚡ Fun Fact: Imagination is more important than knowledge
+
+- 💬 Have a look at my [Portfolio](https://somesh9870.github.io/)
+
 <br/>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh9870" alt="somesh9870" /></a> </p> -->
 <div align="center" display="flex">
   # 💫 About Me:
   I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.

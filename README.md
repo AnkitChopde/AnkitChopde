@@ -29,7 +29,7 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ankit-chopde-822900187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-kumar-2536b7189" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankit-chopde-822900187" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="ashutosh-kumar-2536b7189" height="30" width="40" /></a>
 </p>
 
 

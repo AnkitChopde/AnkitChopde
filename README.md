@@ -3,15 +3,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I am Full Stack Web Developer;I am Learning+Node+Express+MongoDB" width="max-content"> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I am Full Stack Web Developer; Looking good opportunity to start my career" width="max-content"> 
 </div>  
 
 <br/>
 <br/>
 
-- 🔭 I’m currently pursuing **Full Stack Web Development**
-
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **NextJs with redux toolkit**
 
 - 👯 I’m looking to collaborate on **MERN Stack Project**
 
